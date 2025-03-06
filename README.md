@@ -1,6 +1,7 @@
 # Pico Macro Deck Prototype
 ![Pico board prototype](img/pico.jpg "Pico board prototype")
 This simple interface comprises of a Raspberry Pico, 2 button inputs and an Adafruit SH1106 I2C controller. This project leverages the following Repositories:
+
 * [Adafruit CircuitPython Display Text](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text)
 * [Adafruit CircuitPython Display Layout](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Layout)
 * [Adafruit CircuitPython DisplayIO SH1106](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SH1106)
