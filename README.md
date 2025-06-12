@@ -16,6 +16,12 @@ This simple interface comprises of a Raspberry Pico, 2 button inputs and an Adaf
 | GND 	| GND      	|
 | VCC 	| 3V3(OUT) 	|
 
+| BUTTONS 	| PICO 	|
+|---------	|------	|
+| BTN 1   	| GP0  	|
+| BTN 2   	| GP1  	|
+*Remember to connect the buttons to GND!*
+
 ## Functionalities
 
 The functions are straightforward:
